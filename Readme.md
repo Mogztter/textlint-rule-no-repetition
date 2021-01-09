@@ -1,7 +1,7 @@
 # textlint-rule-no-repetition
 
 [![textlint fixable rule](https://img.shields.io/badge/textlint-fixable-green.svg)](https://textlint.github.io/)
-[![Build Status](https://github.com/Mogztter/textlint-rule-no-repetition/workflows/Build/badge.svg)](https://github.com/Mogztter/textlint-rule-no-repetition/actions?query=workflow%3ABuild)
+[![Build Status](https://github.com/Mogztter/textlint-rule-no-repetition/workflows/Build/badge.svg?branch=main)](https://github.com/Mogztter/textlint-rule-no-repetition/actions?query=workflow%3ABuild)
 [![npm](https://img.shields.io/npm/v/textlint-rule-no-repetition.svg)](https://www.npmjs.com/package/textlint-rule-no-repetition)
 
 [textlint](https://github.com/textlint/textlint) rule to find repeated words like "the the" or "and and".

@@ -1,0 +1,21 @@
+{
+  "name": "textlint-rule-no-repetition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js",
+    "lint": "standard index.js test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.2.1",
+    "standard": "^16.0.3",
+    "textlint-tester": "^5.2.7"
+  },
+  "dependencies": {
+    "textlint-util-to-string": "^3.1.1"
+  }
+}
